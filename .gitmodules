@@ -1,3 +1,5 @@
 [submodule "Assets/Scripts/WorldSim"]
 	path = Assets/Scripts/WorldSim
 	url = https://github.com/csheldondante/WorldSim.git
+[submodule "WorldSim"]
+	branch = master
